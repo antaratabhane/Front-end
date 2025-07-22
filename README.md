@@ -1,2 +1,2 @@
-# Front-end
+# Front-End
 This is my first front end project. <br> I am starting my git journey.
